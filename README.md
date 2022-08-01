@@ -7,11 +7,10 @@ The goal was to analyze different approaches to social network bot detection pro
 ## Methodology
 The analyzed approaches were:
 0. Clusterization with visual analysis (EDA).
-1. Random Forest Classification
-2. Classic CatBoost classification.
-3. Graph neural networks based on one- and two-hop account graphs.
-4. GraphSAGE.
-5. attri2vec.
+1. Classic approaches( LogReg, Random Forest Classification, CatBoost classification).
+2. Graph neural networks based on one- and two-hop account graphs.
+3. GraphSAGE.
+4. attri2vec.
 
 ## Metrics
 The metrics measured were f1 and accuracy.
