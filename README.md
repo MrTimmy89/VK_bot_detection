@@ -10,7 +10,8 @@ The analyzed approaches were:
 1. Classic approaches( LogReg, Random Forest Classification, CatBoost classification).
 2. Graph neural networks based on one- and two-hop account graphs.
 3. GraphSAGE.
-4. attri2vec.
+4. Graph Attention
+5. attri2vec.
 
 ## Metrics
 The metrics measured were f1 and accuracy.
